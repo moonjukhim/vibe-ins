@@ -1,2 +1,2 @@
-# vibe-ins
-vibe-ins
+# Vibecoding
+

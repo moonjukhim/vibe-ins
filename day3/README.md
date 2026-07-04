@@ -76,3 +76,11 @@ matplotlib으로 그려 output/charts에 저장(한글 폰트·axes.unicode_minu
 그리고 collect→save→clean→집계→calc_risk_score→build_risk_map 전체를 run(region, year)
 하나로 묶고, 각 단계 소요시간·행 수를 로그로 남겨줘. 예외 시 어느 단계 실패인지 표시.
 ```
+
+# P7 정리
+
+```
+현재까지 작성된 코드를 구조화하여 정리하고
+코드를 검토하여 프로젝트를 이해할 수 있도록
+PRD.md 문서를 makrdown 형식으로 만들어줘.
+```

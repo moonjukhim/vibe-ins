@@ -10,7 +10,7 @@
 
 ```bash
 python -m venv .venv
-source .venv/Script/activate
+# source .venv/Script/activate
 .venv\Scripts\activate.bat
 # deactivate
 ```

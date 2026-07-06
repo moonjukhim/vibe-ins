@@ -4,6 +4,7 @@
 
 - 다음의 경로에서 설치 파일을 다운로드 받고 설치
 - https://www.python.org/downloads/
+- https://code.visualstudio.com/download?_exp_download=d53503e735
 
 2. 가상환경 만들기
 
